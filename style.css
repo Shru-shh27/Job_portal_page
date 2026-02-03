@@ -1,0 +1,221 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: aliceblue;
+
+}
+
+#logo {
+    border-radius: 50px;
+    width: 80px;
+    height: 80px;
+}
+
+.navbar {
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 5px 5px;
+    font-size: 20px;
+    flex-wrap: wrap;
+    margin-top: 0px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-weight: 500;
+}
+
+#title {
+    color: rgb(17, 70, 178);
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: 800px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin-left: 8px;
+    text-decoration: solid;
+}
+
+#login {
+    border-radius: 10px;
+    border-color: rgb(17, 70, 178);
+    border-radius: 10px;
+    color: rgb(17, 70, 178);
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+#register {
+    background-color: rgb(164, 48, 6);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.container {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+    padding-right: 5%;
+    padding-bottom: 80px;
+    padding-left: 5%;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+#color1 {
+    color: rgb(17, 70, 178);
+}
+
+#img1 {
+    width: 450px;
+    border-radius: 15px;
+}
+
+.search-form {
+    background-color: aliceblue;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid rgb(17, 70, 178);
+    border-radius: 10px;
+    width: 250px;
+    outline: none;
+    border-color: rgb(17, 70, 178);
+}
+
+#search {
+    padding: 10px 15px;
+    background-color: rgb(17, 70, 178);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#form {
+    margin-left: 50px;
+}
+
+.detail {
+    text-align: center;
+    background-color: aliceblue;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.mainbody {
+    text-align: center;
+    background-color: aliceblue;
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 0 5%;
+
+}
+
+.mainbody2 {
+    background-color: aliceblue;
+    text-align: center;
+
+}
+
+
+#img3 {
+    border-radius: 10px;
+}
+
+#box {
+    display: inline;
+    display: flex;
+    width: 10px;
+    height: 10x;
+}
+
+#box1 {
+    font-size: 15px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 10px;
+
+}
+
+#box2 {
+    font-size: 15px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 10px;
+}
+
+#box3 {
+    font-size: 15px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 10px;
+}
+
+#box4 {
+    font-size: 15px;
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border: 10px;
+}
+
+.bottom {
+    font-weight: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: start;
+    background-color: white;
+
+    width: 300%;
+    min-height: 200px;
+
+    margin: 100px auto;
+    padding: 40px 60px;
+
+    font-size: 18px;
+    line-height: 1.6;
+
+}
+
+#img4 {
+    width: 300px;
+}
+#app{
+color: rgb(17, 70, 178);
+}
