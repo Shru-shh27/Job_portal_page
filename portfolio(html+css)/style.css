@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    background: #f4f6fb;
+    color: #333;
+    padding: 20px 80px;
+}
+
+#header {
+    text-align: center;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 40px;
+    border-radius: 16px;
+}
+
+.name {
+    font-size: 2.8rem;
+    font-weight: 700;
+}
+
+.tagline {
+    margin-top: 10px;
+    font-size: 1.1rem;
+}
+
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 4px solid white;
+}
+
+
+#navbar {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.nav-link {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #667eea;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.nav-link:hover {
+    color: #764ba2;
+    text-decoration: underline;
+}
+
+
+.section {
+    margin: 40px 0;
+}
+
+.section-title {
+    font-size: 1.8rem;
+    color: #667eea;
+    margin-bottom: 20px;
+}
+
+.project-card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 14px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+}
+
+.project-link {
+    font-size: 0.9rem;
+    margin-left: 10px;
+}
+
+
+.edu-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 12px;
+
+}
+
+.edu-table th,
+.edu-table td {
+    padding: 12px;
+    text-align: center;
+}
+
+.edu-table th {
+    background: #667eea;
+    color: white;
+}
+
+.skill,
+.achievement-list li {
+    background: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border-radius: 8px;
+    width: fit-content;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+
+.form {
+    background: white;
+    padding: 30px;
+    border-radius: 16px;
+    width: 60%;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    font-size: 1;
+}
+
+.input:focus {
+    outline: none;
+    border-color: #667eea;
+}
+
+.btn {
+    background: #667eea;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.btn:hover {
+    background: #764ba2;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 50px;
+    color: gray;
+    font-size: 0.9rem;
+}
