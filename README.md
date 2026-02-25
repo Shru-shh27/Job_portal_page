@@ -24,6 +24,7 @@ Built with:
 
 - **HTML5**
 - **CSS3**
+- **JS**
 
 No backend or database; purely front-end page.
 
